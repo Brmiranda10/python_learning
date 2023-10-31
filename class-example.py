@@ -1,5 +1,5 @@
 # Definir funções orientadas a objetos em Python envolve a criação de classes e métodos para encapsular comportamentos e dados relacionados.
-# Agora, você pode associar um objeto Endereco à classe Pessoa definindo um atributo endereco na classe Pessoa.
+# Agora, você pode associar um objeto Endereco à classe Pessoa definindo um atributo endereco na classe Pessoa!
 class Pessoa:
     # construtor da classe
     def __init__(self, nome, idade, endereco):
